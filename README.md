@@ -26,3 +26,6 @@ Attualmente la tastiera aggiunge i seguenti caratteri:
 | CapsLck + ù | Ù |
 | AltGr + '   | ` |
 | AltGr + ì   | ~ |
+
+
+![layout con caps](ITA%2B%2BCaps.jpg)
