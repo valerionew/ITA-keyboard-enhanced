@@ -1,6 +1,9 @@
 # ITA++: Una tastiera migliorata
 Layout di tastiera italiano con vocali accentate maiuscole e altri caratteri utili  
 
+![layout con caps](ITA%2B%2BCaps.jpg)
+
+
 ## Installazione
 1. Scarica la [release corrente](https://github.com/5N44P/ITA-keyboard-enhanced/releases)
 2. Esegui `setup.exe`
@@ -28,4 +31,3 @@ Attualmente la tastiera aggiunge i seguenti caratteri:
 | AltGr + ì   | ~ |
 
 
-![layout con caps](ITA%2B%2BCaps.jpg)
