@@ -5,7 +5,7 @@ Layout di tastiera italiano con vocali accentate maiuscole e altri caratteri uti
 
 
 ## Installazione
-1. Scarica la [release corrente](https://github.com/5N44P/ITA-keyboard-enhanced/releases)
+1. Scarica la [release corrente](https://github.com/valerionew/ITA-keyboard-enhanced/releases)
 2. Esegui `setup.exe`
 3. Riavvia il computer
 4. Seleziona la tastiera "Italiano - Maiuscole accentate". In Windows 10 2018 si trova sulla barra delle icone, accanto all'orario. 
